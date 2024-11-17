@@ -17,7 +17,7 @@ Zeppelin is a moderation bot for Discord, designed with large servers and reliab
 - Starboard
 - And more!
 
-See https://zeppelin-xn4z.onrender.com for more details.
+See [Our website](https://zeppelin-xn4z.onrender.com) for more details.
 
 ## Usage documentation
 For information on how to use the bot, see https://zeppelin-xn4z.onrender.com/docs
